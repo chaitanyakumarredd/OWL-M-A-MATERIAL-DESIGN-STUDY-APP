@@ -12,7 +12,7 @@
 </p>
 
 # Documentation 
-[chaitanya kumar reddy documentation report](https://github.com/Naveenarikrishnan/owl-m-a-material-design-studt-app/files/11233086/Naan.mudhalvan.documentation.report.pdf)
+[chaitanya kumar reddy documentation report](https://github.com/chaitanyakumarredd/OWL-M-A-MATERIAL-DESIGN-STUDY-APP/blob/main/study%20app3.pdf)
 
 # Demostration video
 
